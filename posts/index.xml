@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 柚夜のBlog</title>
+    <link>https://longkong39.github.io/posts/</link>
+    <description>Recent content in Posts on 柚夜のBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>1552346371@qq.com (柚夜さん)</managingEditor>
+    <webMaster>1552346371@qq.com (柚夜さん)</webMaster>
+    <copyright>© 2024 - 2026 柚夜さん All Rights Reserved.</copyright>
+    <atom:link href="https://longkong39.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
